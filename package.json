@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "^9.8.8",
     "next": "12.2.5",
+    "postcss": "^7.0.39",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "request": "^2.88.2",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   },
   "devDependencies": {
     "@types/node": "18.7.14",
